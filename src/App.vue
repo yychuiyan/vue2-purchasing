@@ -1,5 +1,5 @@
 <template>
-  <!-- 路由出口 -->
+  <!-- 路由的出口 -->
   <router-view />
 </template>
 
